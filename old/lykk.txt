@@ -1,0 +1,35 @@
+Araþtýr:Hash Sha512, hash nedir?,md5?,, dd olayýný anlamadým.,, gzip,awk,shm,alias, ls /ddtt /root 2> /dev/null ???pid,,türkçe karakter neden 2 tane sayýlýr.
+gu.ray.kim/anket.txt
+Lord of the things (t-shirt :D)
+
+Bazý Bir kaç Anlamlar: *Bilgisayara takýlan ilk harddisk sda ile baþlar.
+                            Dev in içindeki Dev ÝCE(ordan aklýna gelsin.)
+                        *null--> karakterdir. Ne yazarsak yazalým içine çeker(Kara delik gibi.)
+                        *sr0 cd romdur.(Sanal da olabilir.)
+                        *253 , 0 --> ilk sayý major numarasýdýr. Ýkinci numara minör,Major türünü belli eder. Minor ise ayný türden cihazlarýn karýþmamasýný saðklar.
+                        *
+                         Bin içindekiler:
+                         *whereis ls --> ls nerde
+                         *Bin içindeki dosyalar genelde confdur.
+                         etc (ayar dosyasý)
+                          *passwd dosyasý var. *Görmek için cat passwd yazýlýr*
+                          *du -sh kapladýðý alaný gösterir.
+                          * lost +found , diskler de bulunur /home da bulunan dosya homun lost + founduna gider.
+                          * dýþarýdan bi program dosyasý yüklediysek. opt a atmak gerekir.
+                          *dma--> direct memory access(özellikle görüntü iþinde yardýmcý olur.)
+                          *
+                         Boot: 
+                         * server=srv--> internet dosyalarý falan orda bulunur.
+                         *tmp=temper: geçici.
+                         * usr=unýx system resorurses--> içinde bin ve sbin bulunur(Çok temel programlar yer alýr.)
+                         * var=variable--> deðiþken dosyalar.(Kim siteye girdi kim çýktý. Sürekli deðiþken þeyler.)
+                          *Pid Komutu Komuta verir.
+                        **loadkey trq -->türkçe klavye yapar.     
+
+                Öðrenmek gereken Dosyalar:
+      bin,dev,home,lib64,media,mnt,opt,sbin,sus,usr,boot,etc,etc,lib,lost+found,proc,run,srv,tmp,var
+
+  **Full path--> Tamamen yolu vermek.--> /root/ucuncugun
+**Relative path --> Belirli bir yere göre yol.(Bulunduðun yeri referans alýyorsun)--> /root ise direk ucuncugun yazsak yeter.
+./dokumanlar--> bulunduðum yerdeki dokumanlarý gösterir.
+

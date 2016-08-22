@@ -1,0 +1,9 @@
+http://www.centos-7.com/awk-command-in-centos/
+
+http://www.r10.net/shell-script-amp-ssh-komutlari/453095-sed-awk-print-grep-kullanimi.html
+
+http://www.linuxfocus.org/Turkce/November2000/article131.shtml
+
+https://tr.wikipedia.org/wiki/AWK
+
+http://www.mazlumagar.com/awk-komutu.html

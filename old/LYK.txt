@@ -1,0 +1,89 @@
+1-Baþlangýç:
+Cent Os Note: Oluþturduðumuz Cent Os un klonunu Kopyalamak için sað týk,Mac adresini iþaretle,Baðlantýlý seç(Çökme durumunda kurtarma imkaný olsun diye)
+Root alaný(/) oluþtururken 1/4 yeter. Ssdler için swap uygun deðil(harddiski çabuk yýpratýr ).Swap için ram in iki katý önerilir.(Zorlandýðýn da ram yerine kullanýlýr.)Geri kalan
+Alan Home a atýlýr.(Resim Müzik dosyalarý Falan) 
+root@local
+//Control-R Klonu siler.//
+//Ekraný Temizlemek için control-l veya clear yazmalýyýz//
+**Yaptýðýmýz Programý Arkadaþa atmak istersek parolayý deðiþtirmek gerekir.
+Bazý Semboller:
+~  Þuan nerde olduðumuzu gösterir.
+@localhost=Bilgisayarýn adý oluyor(Buðranýn Bilgisayarý Falan)
+root olduðunu # sembolden anlarýz.
+Komutlar:
+echo= ekranda ne yazarsak onu gösterir.
+echo $SHELL= Hangi shell de olduðumuzu gösterir. örneðin /bin/bash
+touch= Dosya oluþturur.
+ls= dosyalarý gösterir.(Klasörün içinde ne var ne yok gösterir.)
+ls-l=Daha ayrýntýlý gösterir. Alt Alta
+pwd=nerde olduðumuzu söyler.
+uzun\dosya.. \=Dosya arasýnda boþluk býrakýr(\)
+ls /=/ klasöründe hangþ dosyalar olduðunu gösterir(/ yerine baþka klasörlerde yazabiliriz.)
+uptime= Sistemin ne kadar açýk olduðunu gösterir.
+date= Tarih saati gösterir
+. ile baþlayan dosya ismi yazarsan gizli dosya olur.
+ls -la =tüm dosyalarý gösterir.
+cd=Change Directory Bulunduðun klasörü deðiþtirir.
+rm= dosya siler örnek: rm oyunlar
+rm -f= sormadan siler.
+mkdir=dizin oluþturma.
+rmdir=içi boþ bi dizini siler örnek: rmdir dizin/
+mkdi sonra tab a bas sana mkdi ile baþlayan komutlarý gösterir.
+man pwd= pwd nin ne iþe yaradýðýný gösterir
+rm -r= boþ olmayan dizini de siler.
+rm -rf=sil ama adým adým sorma.
+rm -rf --no-preserve-root / = rootu silicem bana karýþma
+Komutla çýkýþ--> logout
+cd ~ --> bizi evimize götürür.
+cd - --> bir önceki yere götürür.
+../isteðin yeri yaz tabi iki geri gitçeksen ikitane yaz.
+cp= kopyalamayý saðlar
+cp -R lyk/lyka--> lyk yý lyka olarak kopyalar.
+file komutu dizin mi dosya mý olduðunu söyler.
+mv--> taþýmayý saðlýyor.
+mv lyk1/musýcc lyk2/musýcs --> lyk1 deki dosyayý lyk2 ye istediðimiz isimle taþýmýþ oluyoruz.
+ctrl+d ile yazma bölümünden çýkabiliriz.
+cat > deneme diyip yazabilirsin sonra ctrl d ile çýkarsýn ve cat >> deneme ile eklemeye devam edebilirsin.
+cat >> roman <<zncr --> zncr ile çýkmayý saðlar.
+mkdir -p kefir/kebap--> kefir dizini içine kebap klasörü oluþturur.
+mkdýr -p kefýr/kebab{} sýrayla oluþturmamýzý saðlar. sayýlar için {1..100} yapabiliriz.
+dd if =/dev/random of=/dev/sda bs=512 count 1 formatý saðlýyor.
+ls kebap1*/ --> 1le baþlayanlarý gösterir.
+cat>lyk1 ---> lyk1 dosyasý oluþturur ve içine yazmayý saðlar.
+history--> önceki komutlarý gösterir.
+history yazdýktan sonra control +r yaparsak istediðimiz komuta ulaþýrýz.
+history -c --> geçmiþi siler.
+**less,more,script komutlarýný gördük (script yaptýðýmýz iþlemleri kaydetmeye yarar. script kayitlar4 ,,,,, ctrl+d)
+0-->giriþ
+1-->çýktý
+2--> hata
+
+
+control c komutu siler ve yeni sekme açar.
+ 
+**password ile cypher farklý þeyler= cypher belirli kurallarla konuþma yazma , pasaport ise bizim koyduðumuz þeyler.
+alt+f2,alt+f3=terminalleri deðiþtiriyor.
+**screen komutuyla terminal açabilirsin
+shift+page up,page down=yukarý aþaðý gitmesini saðlar.
+Control+d=çýkýþ yapar.
+cat=bu komut göstermeye yarar.(örnek cat passwd)
+ls --help |=less (ayarlarda yukarý aþaðý tuþlarýyla gezmemizi saðlar.)(/ yaparak kelime aratabilirsin.)
+**whoami= hangi kullanýcýda olduðumuzu söyler.
+**Bilgisayar þifreyi hashlenmiþ haliyle kaydeder.
+Dosya uzantýlarý:
+shadow=en önemli bilgiler var.
+
+
+
+
+
+Arayüz:?(Tam emin deðilim sor)
+Gnome
+XFCE
+LXDE
+KDE=linuxun güzel yüzü.
+
+
+**3 tane Root var =1-Giriþ Yaptýðýmýz Root.2-Root Dizini 3-/root
+Dosya Türleri:
+Etc=Ayar dosyalarý

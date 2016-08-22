@@ -1,0 +1,18 @@
+Lyk 5. gün:Home u nasıl değiştirdik ? ŞIKIR ŞIKIRIZ
+
+türkçe karakterlerin daha fazla yer kaplaması unicode kuralından dolayı.
+ $PATH
+ whereis veya which komutu aynı ikiside nerde olduğunu söyler.
+mv /usr/bin/ls /usr/bin/listele  (ls yerine listele yazınca. komut geçerli olur. )
+alias--> komutun işlevini değiştirmeye yarar.
+alias hepsi='ls -la' --> birden fazla parametre alabilir. taşıma yapmaz(mv dan farkı.) mesela hem ls -la çalışabilir hemde ls -la çalışabilir.
+unalias --> eski haline döndürür.
+p--> fifo (ilk giren ilk çıkar)
+s--> soket
+chmod--> yetki değiştirriz
+--- --- --- ~
+shb grb dgr ~
+ben root kullanıcı olsam bile dosyayı silemiyim (lyk sorusu
+umask--> 
+man in the middle attack
+ortadaki adam saldırısı

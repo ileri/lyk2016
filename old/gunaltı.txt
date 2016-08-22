@@ -1,0 +1,3 @@
+Umask--> izin deðiþtirmeye yarar.
+0022 --> 22 dediði 2 deðerinde 0 yapar.
+sticky özelliðinde herkes kendi dosyasýna karýþabiliyor.
