@@ -2,9 +2,9 @@
 
 ## HER ŞEYDEN ÖNCE RTFM!
 
-### Linux'da Herşey Dosyadır.
-
 ## TEMEL GNU/LINUX DİZİNLERİ
+
+\*\*\*Linux'da Herşey Dosyadır.\*\*\*
 
 ### / (Root-Kök) DİZİNİ
 
