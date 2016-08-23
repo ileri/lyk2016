@@ -777,7 +777,7 @@ Yerel Cihaz'ın dışarıya bağlantı kurarken 15.20.25.30 gibi çıkmasını s
 
 #### DNAT = Destination NAT
 
-DNAT ise SNAT ın ters yönlü işlemidir. Routere gelen isteği ilgili cihaza yönlendirir.
+DNAT ise SNAT ın ters yönlü işlemidir. Ağ geçidine (gateway) gelen isteği ilgili cihaza yönlendirir.
 
 ### BRIDGE
 
@@ -787,7 +787,7 @@ Bilgisayarımız sanal makine ile access point arasında sadece köprü vazifesi
 
 IP Adresi 4 adet 8 bitlik kısımdan oluşur.
 4*8 = 32 olduğu için IP adresleri 0 dan 2^32 olan sayılardır.
-Yani 1-(2^32) arasındaki tüm sayılar birer IP adresidir.
+Yani 0 ile 1-(2^32) arasındaki tüm sayılar birer IP adresidir.
 
 Ancak bu sayılar karmaşık gelebilir diye noktalı gösterim kullanılmaya başlanılmıştır.
 
@@ -826,6 +826,11 @@ Bağlantı yapmak için
 ssh kull_adi@sunucu_adresi
 ~~~
 komutunu gireriz.
+
+~~~bash
+ssh kull_adi@sunucu_adresi -p PORT
+~~~
+istenilen port numarasından SSH bağlantısı açmayı dener.
 
 Kendimizi doğrulanmış olarak eklemek için
 ~~~bash
