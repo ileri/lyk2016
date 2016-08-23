@@ -787,7 +787,7 @@ Bilgisayarımız sanal makine ile access point arasında sadece köprü vazifesi
 
 IP Adresi 4 adet 8 bitlik kısımdan oluşur.
 4*8 = 32 olduğu için IP adresleri 0 dan 2^32 olan sayılardır.
-Yani 0 ile 1-(2^32) arasındaki tüm sayılar birer IP adresidir.
+Yani 0 ile (2^32) arasındaki tüm sayılar birer IP adresidir.
 
 Ancak bu sayılar karmaşık gelebilir diye noktalı gösterim kullanılmaya başlanılmıştır.
 
