@@ -2,6 +2,7 @@
 
 # Lisans
 Lisans metni (İngilizce). Detaylar için lisans dosyasına bakınız.
+
     Copyright (c)  2016 Güray Yıldırım, İlteriş Keskin, Serhat Celil İLERİ
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
