@@ -4,6 +4,91 @@
 
 ### Linux'da Herşey Dosyadır.
 
+## TEMEL GNU/LINUX DİZİNLERİ
+
+### / (Root-Kök) DİZİNİ
+
+Root dizini sistemimizin tümünü kapsayan dizindir.
+
+Tüm dizinlerin en büyük ebeveyni olan / (Root) dizininin üzerinde veya yanında herhangi başka bir şey yoktur.
+
+Sistemimizdeki tüm dosya ve dizinler / (Root) dizininin altında bulunur.
+
+### / DİZİNİNİN ALT DİZİNLERİ
+
+/ Dizininin altında genel olarak 15-16 dizin bulunur.
+
+Bu dizinlerin her birinin orada bulunmasının bir amacı vardır.
+
+#### /bin Dizini
+bin ismi binary (ikili) nin kısaltmasından gelir.
+
+Burada çalıştırılabilir komutların derlenmiş (binary yapısında) halleri bulunur.
+
+Sistem için kritik önem taşır ve silinmesi durumunda sisteme herhangi bir komut verilemez.
+
+#### /boot Dizini
+Açılış dosyalarını ve Kerneli barındırır.
+
+Silinmesi durumunda sistem çalışmaz hale gelir.
+
+#### /dev Dizini
+dev ismi Devices yani Cihazlar kelimesinin kısaltmasından gelir.
+
+Sisteme bağlı cihazların dosyalarının bulunduğu yerdir.
+
+Her cihazın bir numarası vardır. Bu numaralar rastgele değil daha önceden belirlenen ve yeni cihazlar çıktıkça güncellenen devices.txt ye göre verilir.
+bkz. [https://www.kernel.org/doc/Documentation/devices.txt](https://www.kernel.org/doc/Documentation/devices.txt)
+
+#### /etc Dizini
+Sistem ayar dosyalarının tutulduğu dizindir.
+
+Herhangi bir ayarı elle değiştirmek istersek genellikle bu dizinin altındaki bir dosyada değişiklik yaparız.
+
+#### /home Dizini
+Kullanıcıların ev dizinlerinin tutulduğu dizindir.
+
+İçindeki bir dizinin silinmesi durumunda silinen dizinin sahibi olan kullanıcı dosyalarını kaybetmiş olur.
+
+#### /lib Dizini
+Kütüphane ve Kernel Modüllerinin tutulduğu dizindir.
+
+#### /media Dizini
+Çıkarılabilir medya cihazlarının mount edildiği dizindir.
+
+#### /mnt Dizini
+Geçici mount edilmiş dosya sistemlerinin mount edildiği dizindir.
+
+#### /opt Dizini
+Kendi kütüphane dosyaları ile gelen uygulamaların kütüphane dosyalarının saklandığı dizindir.
+
+#### /sbin Dizini
+Sistem çalıştırılabilir dosyalarının saklandığı dizindir.
+
+#### /srv Dizini
+Services in kısaltmasından gelir.
+
+Sistem tarafından sunulan servis dosyalarının bulunduğu dizindir.
+
+#### /tmp Dizini
+Geçici dosyaların bulunduğu dizindir.
+
+Bu dizinde root haricindeki her kullanıcı sadece kendi dosyalarında değişiklik hakkına sahiptir.
+
+#### /usr Dizini
+BİLGİLER EKLENECEK!
+#### /var Dizini
+BİLGİLER EKLENECEK!
+#### /root Dizini
+root Kullanıcısının ev dizinidir.
+
+#### /proc Dizini
+Sistem ile ilgili bilgileri alabileceğimiz dosyaların bulunduğu dizindir.
+
+Dizinin içi aslında boştur. Sistem çalıştığı zaman sistemin özellikleri dosya olarak görünür.
+
+---
+
 ## KULLANICI DEĞİŞTİRME VE BİLGİ ALMA
 
 ~~~bash
