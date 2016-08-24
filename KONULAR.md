@@ -82,9 +82,11 @@ Geçici dosyaların bulunduğu dizindir.
 Bu dizinde root haricindeki her kullanıcı sadece kendi dosyalarında değişiklik hakkına sahiptir.
 
 #### /usr Dizini
-BİLGİLER EKLENECEK!
+Çalıştırılabilir dosyalar, kütüphaneler , dokümantasyonlr ve kaynak kodları içerebilen dizindir. Kullanıcı uygulamalarının depolandığı dizindir.
 #### /var Dizini
-BİLGİLER EKLENECEK!
+Variable yani değişken sözcüğünün kısaltmasından adını almıştır.
+
+Loglar gibi sürekli içindeki bilgilerin güncelleneceği dosyaların bulunmasının amaçlandığı dizindir.
 #### /root Dizini
 root Kullanıcısının ev dizinidir.
 
