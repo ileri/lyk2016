@@ -17,6 +17,8 @@ Unvan:**Araştırma Görevlisi-İstanbul Teknik Üniversitesi**
 
 İsim-Soyisim:**Serhat Celil İLERİ**
 
+Blog:**http://serhatcileri.com**
+
 LinkedIn:**https://www.linkedin.com/in/serhatcileri**
 
 E-Posta:**serhatcelilileri [at] gmail.com**
@@ -26,6 +28,8 @@ Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi-Ondokuz Mayıs Üniversites
 ---
 
 İsim-Soyisim:**Ali İLTERİŞ KESKİN**
+
+Blog:**http://ilteriskeskin.com/**
 
 LinkedIn:**https://tr.linkedin.com/in/ali-ilteriş-keskin-4baa09113**
 
