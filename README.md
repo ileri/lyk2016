@@ -9,7 +9,7 @@ LinkedIn:**https://tr.linkedin.com/in/gryyldrm**
 
 E-Posta:**guray [at] gurayyildirim.com.tr**
 
-Unvan:**Araştırma Görevlisi-İstanbul Teknik Üniversitesi**
+Unvan:**Sistem Yöneticisi**
 
 ---
 
@@ -23,7 +23,7 @@ LinkedIn:**https://www.linkedin.com/in/serhatcileri**
 
 E-Posta:**serhatcelilileri [at] gmail.com**
 
-Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi-Ondokuz Mayıs Üniversitesi**
+Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Ondokuz Mayıs Üniversitesi**
 
 ---
 
@@ -35,7 +35,7 @@ LinkedIn:**https://tr.linkedin.com/in/ali-ilteriş-keskin-4baa09113**
 
 E-Posta:**ilteriskesk20 [at] gmail.com**
 
-Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi-Atatürk Üniversitesi**
+Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Atatürk Üniversitesi**
 
 ---
 
@@ -45,7 +45,7 @@ LinkedIn:**https://tr.linkedin.com/in/bu%C4%9Frahan-zencir-b19b9a110**
 
 E-Posta:**zencir96 [at] gmail.com**
 
-Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi-Trakya Üniversitesi**
+Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Trakya Üniversitesi**
 
 ---
 
