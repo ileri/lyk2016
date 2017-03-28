@@ -1,6 +1,6 @@
 # Linux Yaz Kampı 2016 Ders Konu - Özetleri
 
-##Eğitmen Bilgileri
+## Eğitmen Bilgileri
 İsim-Soyisim:**Güray YILDIRIM**
 
 Blog:**http://gurayyildirim.com.tr**
@@ -13,7 +13,7 @@ Unvan:**Sistem Yöneticisi**
 
 ---
 
-##Katkıda Bulunan Öğrenci Bilgileri
+## Katkıda Bulunan Öğrenci Bilgileri
 
 İsim-Soyisim:**Serhat Celil İLERİ**
 
