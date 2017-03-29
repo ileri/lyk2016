@@ -29,7 +29,7 @@ Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Ondokuz Mayıs Üniversit
 GitHub: (celilileri)[https://github.com/celilileri]
 ---
 
-İsim-Soyisim:**Ali İLTERİŞ KESKİN**
+İsim-Soyisim:**Ali İlteriş KESKİN**
 
 Blog:**http://ilteriskeskin.com/**
 
