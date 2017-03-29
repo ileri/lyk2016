@@ -11,6 +11,7 @@ E-Posta:**guray [at] gurayyildirim.com.tr**
 
 Unvan:**Sistem Yöneticisi**
 
+GitHub: (gurayyildirim)[https://github.com/gurayyildirim]
 ---
 
 ## Katkıda Bulunan Öğrenci Bilgileri
@@ -25,6 +26,7 @@ E-Posta:**serhatcelilileri [at] gmail.com**
 
 Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Ondokuz Mayıs Üniversitesi**
 
+GitHub: (celilileri)[https://github.com/celilileri]
 ---
 
 İsim-Soyisim:**Ali İLTERİŞ KESKİN**
@@ -37,17 +39,5 @@ E-Posta:**ilteriskesk20 [at] gmail.com**
 
 Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Atatürk Üniversitesi**
 
+GitHub: (ilteriskesk)[https://github.com/ilteriskesk]
 ---
-
-İsim-Soyisim:**Buğrahan ZENCİR**
-
-LinkedIn:**https://tr.linkedin.com/in/bu%C4%9Frahan-zencir-b19b9a110**
-
-E-Posta:**zencir96 [at] gmail.com**
-
-Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Trakya Üniversitesi**
-
----
-
-
-**Katkıda bulunan diğer kişilerden de bilgilerini aynı formatta KENDİLERİ eklemeleri beklenmektedir**
