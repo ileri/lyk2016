@@ -1,5 +1,11 @@
 # Linux Yaz Kampı 2016 Ders Konu - Özetleri
 
+[![GitHub issues](https://img.shields.io/github/issues/celilileri/lyk2016.svg)](https://github.com/celilileri/lyk2016/issues)
+[![GitHub forks](https://img.shields.io/github/forks/celilileri/lyk2016.svg)](https://github.com/celilileri/lyk2016/network)
+[![GitHub stars](https://img.shields.io/github/stars/celilileri/lyk2016.svg)](https://github.com/celilileri/lyk2016/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)](https://raw.githubusercontent.com/celilileri/lyk2016/master/LICENSE.txt)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/celilileri/lyk2016.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+
 ## Eğitmen Bilgileri
 İsim-Soyisim:**Güray YILDIRIM**
 
