@@ -33,7 +33,7 @@ E-Posta:**serhatcelilileri [at] gmail.com**
 
 Unvan:**Bilgisayar Mühendisliği Lisans Öğrencisi - Ondokuz Mayıs Üniversitesi**
 
-GitHub: [cileri](https://github.com/ileri)
+GitHub: [ileri](https://github.com/ileri)
 
 ---
 
